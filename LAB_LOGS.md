@@ -1,2 +1,3 @@
 - 2025-01-02T10:34:17: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-01-02T14:18:00: [FORGE-LOG] feat: integrate real-time lab metrics
+- 2025-01-02T12:51:49: [FORGE-LOG] docs: document forge architecture

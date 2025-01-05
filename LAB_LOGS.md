@@ -8,3 +8,4 @@
 - 2025-01-05T17:38:50: [FORGE-LOG] style: modernize lab dashboard
 - 2025-01-05T08:14:22: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-01-05T17:40:41: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-01-05T13:18:53: [FORGE-LOG] feat: add core forge processing logic

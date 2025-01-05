@@ -3,3 +3,4 @@
 - 2025-01-02T12:51:49: [FORGE-LOG] docs: document forge architecture
 - 2025-01-02T20:50:41: [FORGE-LOG] docs: document forge architecture
 - 2025-01-02T13:32:43: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-01-05T09:55:58: [FORGE-LOG] refactor: clean up experimental codebase

@@ -71,3 +71,4 @@
 - 2025-01-28T09:54:56: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-01-28T22:27:39: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-01-29T17:10:21: [FORGE-LOG] chore: experiment with modular lab components
+- 2025-01-29T15:46:45: [FORGE-LOG] docs: document forge architecture

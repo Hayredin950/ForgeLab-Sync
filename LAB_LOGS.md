@@ -98,3 +98,4 @@
 - 2025-02-09T22:21:36: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-02-11T20:08:53: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-02-11T16:51:23: [FORGE-LOG] feat: add core forge processing logic
+- 2025-02-13T20:05:09: [FORGE-LOG] fix: solve memory leakage in lab tests

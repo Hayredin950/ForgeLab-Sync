@@ -113,3 +113,4 @@
 - 2025-02-15T09:26:16: [FORGE-LOG] chore: update lab dependencies
 - 2025-02-15T21:54:29: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-02-16T17:23:36: [FORGE-LOG] chore: update lab dependencies
+- 2025-02-16T20:39:39: [FORGE-LOG] test: unit testing for forge kernels

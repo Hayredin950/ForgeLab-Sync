@@ -141,3 +141,4 @@
 - 2025-02-26T13:49:42: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-02-26T11:43:51: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-02-27T19:26:19: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-02-27T15:00:00: [FORGE-LOG] docs: document forge architecture

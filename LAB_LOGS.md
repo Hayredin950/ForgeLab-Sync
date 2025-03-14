@@ -176,3 +176,4 @@
 - 2025-03-13T17:08:22: [FORGE-LOG] docs: document forge architecture
 - 2025-03-13T19:09:47: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-03-13T14:00:14: [FORGE-LOG] refactor: clean up experimental codebase
+- 2025-03-14T10:22:06: [FORGE-LOG] feat: integrate real-time lab metrics

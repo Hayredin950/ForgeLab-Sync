@@ -224,3 +224,4 @@
 - 2025-04-01T17:03:49: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-04-01T16:00:45: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-04-01T19:32:54: [FORGE-LOG] test: unit testing for forge kernels
+- 2025-04-03T10:21:32: [FORGE-LOG] docs: document forge architecture

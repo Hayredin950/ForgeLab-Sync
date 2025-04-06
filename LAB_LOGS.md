@@ -230,3 +230,4 @@
 - 2025-04-06T14:16:15: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-04-06T08:20:24: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-04-06T19:03:07: [FORGE-LOG] chore: update lab dependencies
+- 2025-04-06T15:45:57: [FORGE-LOG] feat: integrate real-time lab metrics

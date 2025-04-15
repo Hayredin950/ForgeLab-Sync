@@ -247,3 +247,4 @@
 - 2025-04-14T08:27:08: [FORGE-LOG] chore: update lab dependencies
 - 2025-04-14T11:38:44: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-04-15T18:41:04: [FORGE-LOG] docs: document forge architecture
+- 2025-04-15T16:44:39: [FORGE-LOG] test: unit testing for forge kernels

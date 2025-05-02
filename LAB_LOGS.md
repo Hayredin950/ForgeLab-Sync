@@ -277,3 +277,4 @@
 - 2025-04-29T10:23:15: [FORGE-LOG] feat: add core forge processing logic
 - 2025-05-02T11:33:16: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-05-02T09:28:08: [FORGE-LOG] style: modernize lab dashboard
+- 2025-05-02T14:39:27: [FORGE-LOG] docs: document forge architecture

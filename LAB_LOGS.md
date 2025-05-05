@@ -287,3 +287,4 @@
 - 2025-05-03T14:49:12: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-05-05T22:44:20: [FORGE-LOG] style: modernize lab dashboard
 - 2025-05-05T20:18:23: [FORGE-LOG] test: unit testing for forge kernels
+- 2025-05-05T09:44:39: [FORGE-LOG] docs: document forge architecture

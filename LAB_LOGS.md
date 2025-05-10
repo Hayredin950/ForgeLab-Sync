@@ -289,3 +289,4 @@
 - 2025-05-05T20:18:23: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-05-05T09:44:39: [FORGE-LOG] docs: document forge architecture
 - 2025-05-05T08:04:44: [FORGE-LOG] refactor: clean up experimental codebase
+- 2025-05-10T15:50:52: [FORGE-LOG] docs: document forge architecture

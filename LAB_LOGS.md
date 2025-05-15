@@ -301,3 +301,4 @@
 - 2025-05-14T20:25:22: [FORGE-LOG] docs: document forge architecture
 - 2025-05-14T17:58:06: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-05-15T12:40:51: [FORGE-LOG] style: modernize lab dashboard
+- 2025-05-15T17:33:46: [FORGE-LOG] test: unit testing for forge kernels

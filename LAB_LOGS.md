@@ -305,3 +305,4 @@
 - 2025-05-15T08:47:42: [FORGE-LOG] feat: add core forge processing logic
 - 2025-05-15T22:02:51: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-05-15T22:15:44: [FORGE-LOG] refactor: clean up experimental codebase
+- 2025-05-15T22:26:08: [FORGE-LOG] docs: document forge architecture

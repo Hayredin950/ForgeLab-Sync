@@ -314,3 +314,4 @@
 - 2025-05-17T20:28:01: [FORGE-LOG] style: modernize lab dashboard
 - 2025-05-19T22:46:36: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-05-19T20:31:02: [FORGE-LOG] feat: integrate real-time lab metrics
+- 2025-05-19T19:54:13: [FORGE-LOG] docs: document forge architecture

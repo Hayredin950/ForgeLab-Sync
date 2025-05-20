@@ -319,3 +319,4 @@
 - 2025-05-19T11:56:11: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-05-20T11:14:18: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-05-20T14:04:31: [FORGE-LOG] docs: document forge architecture
+- 2025-05-20T14:08:49: [FORGE-LOG] chore: update lab dependencies

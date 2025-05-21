@@ -321,3 +321,4 @@
 - 2025-05-20T14:04:31: [FORGE-LOG] docs: document forge architecture
 - 2025-05-20T14:08:49: [FORGE-LOG] chore: update lab dependencies
 - 2025-05-21T19:20:15: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-05-21T13:44:12: [FORGE-LOG] test: unit testing for forge kernels

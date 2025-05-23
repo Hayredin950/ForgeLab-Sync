@@ -326,3 +326,4 @@
 - 2025-05-21T08:10:01: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-05-21T21:15:10: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-05-21T12:15:34: [FORGE-LOG] test: unit testing for forge kernels
+- 2025-05-23T15:27:18: [FORGE-LOG] feat: add core forge processing logic

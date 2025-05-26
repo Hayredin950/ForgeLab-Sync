@@ -336,3 +336,4 @@
 - 2025-05-25T15:15:28: [FORGE-LOG] docs: document forge architecture
 - 2025-05-26T14:18:19: [FORGE-LOG] style: modernize lab dashboard
 - 2025-05-26T20:26:15: [FORGE-LOG] refactor: clean up experimental codebase
+- 2025-05-26T16:23:08: [FORGE-LOG] test: unit testing for forge kernels

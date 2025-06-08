@@ -352,3 +352,4 @@
 - 2025-06-06T17:10:21: [FORGE-LOG] style: modernize lab dashboard
 - 2025-06-06T17:30:14: [FORGE-LOG] chore: update lab dependencies
 - 2025-06-08T19:47:10: [FORGE-LOG] docs: document forge architecture
+- 2025-06-08T14:43:15: [FORGE-LOG] docs: document forge architecture

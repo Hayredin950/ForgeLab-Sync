@@ -354,3 +354,4 @@
 - 2025-06-08T19:47:10: [FORGE-LOG] docs: document forge architecture
 - 2025-06-08T14:43:15: [FORGE-LOG] docs: document forge architecture
 - 2025-06-08T12:37:22: [FORGE-LOG] refactor: clean up experimental codebase
+- 2025-06-09T20:24:24: [FORGE-LOG] feat: add core forge processing logic

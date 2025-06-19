@@ -380,3 +380,4 @@
 - 2025-06-17T13:36:47: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-06-17T09:07:50: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-06-19T11:32:53: [FORGE-LOG] feat: add core forge processing logic
+- 2025-06-19T18:33:01: [FORGE-LOG] test: unit testing for forge kernels

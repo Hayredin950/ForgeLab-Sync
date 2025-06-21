@@ -386,3 +386,4 @@
 - 2025-06-21T12:52:39: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-06-21T09:26:33: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-06-21T21:33:11: [FORGE-LOG] feat: add core forge processing logic
+- 2025-06-21T16:53:27: [FORGE-LOG] docs: document forge architecture

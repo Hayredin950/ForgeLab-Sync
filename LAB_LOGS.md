@@ -407,3 +407,4 @@
 - 2025-07-01T17:01:54: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-07-01T13:41:14: [FORGE-LOG] docs: document forge architecture
 - 2025-07-01T16:23:08: [FORGE-LOG] refactor: clean up experimental codebase
+- 2025-07-01T08:38:04: [FORGE-LOG] fix: solve memory leakage in lab tests

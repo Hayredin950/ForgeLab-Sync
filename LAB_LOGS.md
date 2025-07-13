@@ -437,3 +437,4 @@
 - 2025-07-12T20:46:44: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-07-12T10:10:02: [FORGE-LOG] docs: document forge architecture
 - 2025-07-12T09:36:42: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-07-13T22:40:02: [FORGE-LOG] docs: document forge architecture

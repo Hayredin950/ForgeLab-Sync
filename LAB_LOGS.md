@@ -447,3 +447,4 @@
 - 2025-07-14T21:20:01: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-07-15T19:32:12: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-07-15T20:38:04: [FORGE-LOG] chore: update lab dependencies
+- 2025-07-15T08:37:08: [FORGE-LOG] test: unit testing for forge kernels

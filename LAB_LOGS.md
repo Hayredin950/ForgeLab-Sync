@@ -464,3 +464,4 @@
 - 2025-07-20T10:56:43: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-07-20T12:18:02: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-07-20T09:21:55: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-07-21T10:55:35: [FORGE-LOG] docs: document forge architecture

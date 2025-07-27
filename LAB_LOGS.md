@@ -477,3 +477,4 @@
 - 2025-07-27T09:15:58: [FORGE-LOG] docs: document forge architecture
 - 2025-07-27T14:04:11: [FORGE-LOG] feat: add core forge processing logic
 - 2025-07-27T17:50:46: [FORGE-LOG] feat: add core forge processing logic
+- 2025-07-27T19:10:00: [FORGE-LOG] fix: solve memory leakage in lab tests

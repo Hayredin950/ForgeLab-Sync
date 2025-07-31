@@ -480,3 +480,4 @@
 - 2025-07-27T19:10:00: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-07-31T20:28:26: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-07-31T20:23:20: [FORGE-LOG] style: modernize lab dashboard
+- 2025-07-31T14:43:10: [FORGE-LOG] test: unit testing for forge kernels

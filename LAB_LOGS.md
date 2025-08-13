@@ -497,3 +497,4 @@
 - 2025-08-11T16:23:07: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-08-11T18:31:05: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-08-11T21:01:52: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-08-13T08:39:40: [FORGE-LOG] fix: solve memory leakage in lab tests

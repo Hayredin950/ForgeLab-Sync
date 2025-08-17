@@ -503,3 +503,4 @@
 - 2025-08-13T18:31:10: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-08-13T09:31:44: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-08-13T11:28:39: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-08-17T15:45:46: [FORGE-LOG] perf: optimize forge heat-sync logic

@@ -506,3 +506,4 @@
 - 2025-08-17T15:45:46: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-08-17T11:54:51: [FORGE-LOG] style: modernize lab dashboard
 - 2025-08-18T17:37:01: [FORGE-LOG] style: modernize lab dashboard
+- 2025-08-18T12:45:57: [FORGE-LOG] refactor: clean up experimental codebase

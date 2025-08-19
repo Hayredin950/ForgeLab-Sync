@@ -509,3 +509,4 @@
 - 2025-08-18T12:45:57: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-08-19T09:37:22: [FORGE-LOG] feat: add core forge processing logic
 - 2025-08-19T12:39:00: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-08-19T18:32:17: [FORGE-LOG] test: unit testing for forge kernels

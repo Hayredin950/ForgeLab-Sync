@@ -513,3 +513,4 @@
 - 2025-08-21T11:01:18: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-08-21T11:14:27: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-08-21T15:23:10: [FORGE-LOG] chore: experiment with modular lab components
+- 2025-08-21T22:22:14: [FORGE-LOG] docs: document forge architecture

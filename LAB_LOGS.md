@@ -537,3 +537,4 @@
 - 2025-09-02T14:53:48: [FORGE-LOG] chore: update lab dependencies
 - 2025-09-02T14:13:06: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-09-06T16:47:55: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-09-06T19:42:38: [FORGE-LOG] fix: solve memory leakage in lab tests

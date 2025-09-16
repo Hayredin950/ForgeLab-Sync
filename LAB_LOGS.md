@@ -580,3 +580,4 @@
 - 2025-09-16T22:12:50: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-09-16T22:33:19: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-09-16T22:57:09: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-09-16T16:25:16: [FORGE-LOG] test: unit testing for forge kernels

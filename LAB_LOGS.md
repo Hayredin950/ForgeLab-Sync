@@ -595,3 +595,4 @@
 - 2025-09-23T19:27:45: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-09-26T13:41:07: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-09-26T10:49:29: [FORGE-LOG] test: unit testing for forge kernels
+- 2025-09-26T12:48:00: [FORGE-LOG] docs: document forge architecture

@@ -614,3 +614,4 @@
 - 2025-10-04T19:03:40: [FORGE-LOG] chore: update lab dependencies
 - 2025-10-04T17:58:39: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-10-08T20:37:08: [FORGE-LOG] refactor: clean up experimental codebase
+- 2025-10-08T13:48:54: [FORGE-LOG] docs: document forge architecture

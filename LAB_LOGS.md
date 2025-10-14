@@ -623,3 +623,4 @@
 - 2025-10-13T16:46:49: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-10-13T12:50:58: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-10-13T10:01:17: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-10-14T19:50:55: [FORGE-LOG] fix: solve memory leakage in lab tests

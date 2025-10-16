@@ -634,3 +634,4 @@
 - 2025-10-16T12:52:29: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-10-16T14:32:34: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-10-16T08:05:52: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-10-16T18:07:11: [FORGE-LOG] docs: document forge architecture

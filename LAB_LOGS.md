@@ -637,3 +637,4 @@
 - 2025-10-16T18:07:11: [FORGE-LOG] docs: document forge architecture
 - 2025-10-16T13:51:10: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-10-17T18:53:57: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-10-17T17:26:28: [FORGE-LOG] docs: document forge architecture

@@ -647,3 +647,4 @@
 - 2025-10-19T20:26:48: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-10-19T08:04:11: [FORGE-LOG] docs: document forge architecture
 - 2025-10-19T22:21:21: [FORGE-LOG] test: unit testing for forge kernels
+- 2025-10-22T18:20:21: [FORGE-LOG] refactor: clean up experimental codebase

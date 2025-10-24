@@ -653,3 +653,4 @@
 - 2025-10-22T22:55:11: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-10-24T11:24:53: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-10-24T21:53:08: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-10-24T22:57:11: [FORGE-LOG] test: unit testing for forge kernels

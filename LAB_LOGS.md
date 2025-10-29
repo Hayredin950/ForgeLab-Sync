@@ -662,3 +662,4 @@
 - 2025-10-29T13:55:54: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-10-29T20:25:46: [FORGE-LOG] chore: update lab dependencies
 - 2025-10-29T09:59:57: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-10-29T08:02:13: [FORGE-LOG] test: unit testing for forge kernels

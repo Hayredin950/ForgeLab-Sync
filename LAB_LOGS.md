@@ -686,3 +686,4 @@
 - 2025-11-10T11:19:53: [FORGE-LOG] docs: document forge architecture
 - 2025-11-10T22:02:31: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-11-10T22:37:52: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-11-10T10:43:48: [FORGE-LOG] fix: solve memory leakage in lab tests

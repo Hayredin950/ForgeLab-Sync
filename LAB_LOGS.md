@@ -712,3 +712,4 @@
 - 2025-11-23T08:54:52: [FORGE-LOG] style: modernize lab dashboard
 - 2025-11-23T12:35:43: [FORGE-LOG] feat: add core forge processing logic
 - 2025-11-24T22:23:15: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2025-11-24T16:11:04: [FORGE-LOG] test: unit testing for forge kernels

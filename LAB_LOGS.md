@@ -739,3 +739,4 @@
 - 2025-11-29T19:09:23: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-11-29T15:58:29: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-11-29T11:14:20: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2025-11-30T19:59:45: [FORGE-LOG] fix: solve memory leakage in lab tests

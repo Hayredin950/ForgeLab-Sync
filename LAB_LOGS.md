@@ -750,3 +750,4 @@
 - 2025-12-02T20:52:54: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-12-02T08:27:28: [FORGE-LOG] chore: update lab dependencies
 - 2025-12-02T12:16:41: [FORGE-LOG] chore: update lab dependencies
+- 2025-12-02T17:43:29: [FORGE-LOG] feat: integrate real-time lab metrics

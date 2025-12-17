@@ -776,3 +776,4 @@
 - 2025-12-16T10:44:08: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-12-16T20:15:19: [FORGE-LOG] docs: document forge architecture
 - 2025-12-17T13:51:19: [FORGE-LOG] feat: integrate real-time lab metrics
+- 2025-12-17T16:59:13: [FORGE-LOG] test: unit testing for forge kernels

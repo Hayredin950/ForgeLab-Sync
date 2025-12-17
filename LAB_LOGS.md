@@ -777,3 +777,4 @@
 - 2025-12-16T20:15:19: [FORGE-LOG] docs: document forge architecture
 - 2025-12-17T13:51:19: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-12-17T16:59:13: [FORGE-LOG] test: unit testing for forge kernels
+- 2025-12-17T12:34:52: [FORGE-LOG] fix: solve memory leakage in lab tests

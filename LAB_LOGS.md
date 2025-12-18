@@ -781,3 +781,4 @@
 - 2025-12-17T22:06:05: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-12-17T19:06:10: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2025-12-17T09:21:57: [FORGE-LOG] chore: update lab dependencies
+- 2025-12-18T14:02:43: [FORGE-LOG] test: unit testing for forge kernels

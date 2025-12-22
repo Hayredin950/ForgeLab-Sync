@@ -790,3 +790,4 @@
 - 2025-12-21T08:44:21: [FORGE-LOG] test: unit testing for forge kernels
 - 2025-12-21T17:18:13: [FORGE-LOG] chore: update lab dependencies
 - 2025-12-22T20:54:40: [FORGE-LOG] test: unit testing for forge kernels
+- 2025-12-22T14:29:21: [FORGE-LOG] fix: solve memory leakage in lab tests

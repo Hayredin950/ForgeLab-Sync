@@ -793,3 +793,4 @@
 - 2025-12-22T14:29:21: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-12-22T17:32:50: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2025-12-23T15:51:04: [FORGE-LOG] feat: add core forge processing logic
+- 2025-12-23T14:24:11: [FORGE-LOG] docs: document forge architecture

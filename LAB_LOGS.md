@@ -803,3 +803,4 @@
 - 2025-12-27T22:37:45: [FORGE-LOG] chore: experiment with modular lab components
 - 2025-12-27T20:10:03: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-12-27T08:37:33: [FORGE-LOG] docs: document forge architecture
+- 2025-12-27T12:13:21: [FORGE-LOG] feat: add core forge processing logic

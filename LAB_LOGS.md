@@ -811,3 +811,4 @@
 - 2025-12-28T08:20:57: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2025-12-29T10:15:31: [FORGE-LOG] refactor: clean up experimental codebase
 - 2025-12-29T18:48:14: [FORGE-LOG] docs: document forge architecture
+- 2025-12-29T21:33:46: [FORGE-LOG] fix: solve memory leakage in lab tests

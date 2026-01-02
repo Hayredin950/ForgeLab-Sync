@@ -815,3 +815,4 @@
 - 2026-01-02T19:44:19: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2026-01-02T22:24:15: [FORGE-LOG] chore: experiment with modular lab components
 - 2026-01-02T16:34:21: [FORGE-LOG] test: unit testing for forge kernels
+- 2026-01-02T08:59:13: [FORGE-LOG] fix: solve memory leakage in lab tests

@@ -818,3 +818,4 @@
 - 2026-01-02T08:59:13: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2026-01-02T13:21:14: [FORGE-LOG] chore: update lab dependencies
 - 2026-01-03T14:22:43: [FORGE-LOG] feat: add core forge processing logic
+- 2026-01-03T08:36:01: [FORGE-LOG] test: unit testing for forge kernels

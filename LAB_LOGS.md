@@ -827,3 +827,4 @@
 - 2026-01-06T10:12:20: [FORGE-LOG] docs: document forge architecture
 - 2026-01-06T16:01:23: [FORGE-LOG] style: modernize lab dashboard
 - 2026-01-06T20:00:42: [FORGE-LOG] style: modernize lab dashboard
+- 2026-01-06T08:13:47: [FORGE-LOG] docs: document forge architecture

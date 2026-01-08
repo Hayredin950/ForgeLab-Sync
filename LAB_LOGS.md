@@ -837,3 +837,4 @@
 - 2026-01-07T19:50:54: [FORGE-LOG] refactor: clean up experimental codebase
 - 2026-01-08T12:53:55: [FORGE-LOG] chore: update lab dependencies
 - 2026-01-08T09:11:28: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2026-01-08T12:17:15: [FORGE-LOG] test: unit testing for forge kernels

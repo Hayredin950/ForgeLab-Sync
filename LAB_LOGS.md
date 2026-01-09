@@ -841,3 +841,4 @@
 - 2026-01-09T13:35:55: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2026-01-09T09:10:31: [FORGE-LOG] feat: add core forge processing logic
 - 2026-01-09T18:35:16: [FORGE-LOG] feat: add core forge processing logic
+- 2026-01-09T09:39:32: [FORGE-LOG] docs: document forge architecture

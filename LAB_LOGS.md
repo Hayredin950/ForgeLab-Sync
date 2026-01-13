@@ -851,3 +851,4 @@
 - 2026-01-13T20:07:38: [FORGE-LOG] chore: experiment with modular lab components
 - 2026-01-13T21:05:18: [FORGE-LOG] style: modernize lab dashboard
 - 2026-01-13T13:10:17: [FORGE-LOG] style: modernize lab dashboard
+- 2026-01-13T13:57:03: [FORGE-LOG] feat: integrate real-time lab metrics

@@ -852,3 +852,4 @@
 - 2026-01-13T21:05:18: [FORGE-LOG] style: modernize lab dashboard
 - 2026-01-13T13:10:17: [FORGE-LOG] style: modernize lab dashboard
 - 2026-01-13T13:57:03: [FORGE-LOG] feat: integrate real-time lab metrics
+- 2026-01-13T20:24:51: [FORGE-LOG] docs: document forge architecture

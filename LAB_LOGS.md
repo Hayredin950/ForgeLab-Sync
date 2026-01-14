@@ -854,3 +854,4 @@
 - 2026-01-13T13:57:03: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2026-01-13T20:24:51: [FORGE-LOG] docs: document forge architecture
 - 2026-01-13T20:38:08: [FORGE-LOG] feat: integrate real-time lab metrics
+- 2026-01-14T20:45:10: [FORGE-LOG] fix: solve memory leakage in lab tests

@@ -864,3 +864,4 @@
 - 2026-01-15T14:19:06: [FORGE-LOG] feat: add core forge processing logic
 - 2026-01-15T11:27:17: [FORGE-LOG] feat: add core forge processing logic
 - 2026-01-18T13:56:45: [FORGE-LOG] chore: experiment with modular lab components
+- 2026-01-18T10:06:32: [FORGE-LOG] docs: document forge architecture

@@ -895,3 +895,4 @@
 - 2026-01-31T14:35:38: [FORGE-LOG] refactor: clean up experimental codebase
 - 2026-02-03T12:59:32: [FORGE-LOG] chore: update lab dependencies
 - 2026-02-03T15:39:21: [FORGE-LOG] perf: optimize forge heat-sync logic
+- 2026-02-03T13:12:58: [FORGE-LOG] docs: document forge architecture

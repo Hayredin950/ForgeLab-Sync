@@ -898,3 +898,4 @@
 - 2026-02-03T13:12:58: [FORGE-LOG] docs: document forge architecture
 - 2026-02-03T10:29:50: [FORGE-LOG] style: modernize lab dashboard
 - 2026-02-03T19:19:20: [FORGE-LOG] style: modernize lab dashboard
+- 2026-02-03T09:57:48: [FORGE-LOG] refactor: clean up experimental codebase

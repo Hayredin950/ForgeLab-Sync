@@ -932,3 +932,4 @@
 - 2026-02-16T12:44:40: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2026-02-16T18:28:19: [FORGE-LOG] style: modernize lab dashboard
 - 2026-02-16T11:47:32: [FORGE-LOG] feat: add core forge processing logic
+- 2026-02-16T15:53:30: [FORGE-LOG] docs: document forge architecture

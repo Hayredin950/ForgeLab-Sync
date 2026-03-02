@@ -969,3 +969,4 @@
 - 2026-03-01T22:45:44: [FORGE-LOG] refactor: clean up experimental codebase
 - 2026-03-01T17:53:44: [FORGE-LOG] test: unit testing for forge kernels
 - 2026-03-02T16:16:57: [FORGE-LOG] chore: experiment with modular lab components
+- 2026-03-02T20:08:38: [FORGE-LOG] docs: document forge architecture

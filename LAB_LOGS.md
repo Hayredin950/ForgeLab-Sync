@@ -978,3 +978,4 @@
 - 2026-03-05T20:23:37: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2026-03-05T09:11:57: [FORGE-LOG] test: unit testing for forge kernels
 - 2026-03-09T22:43:08: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2026-03-09T08:44:54: [FORGE-LOG] docs: document forge architecture

@@ -983,3 +983,4 @@
 - 2026-03-11T22:12:24: [FORGE-LOG] style: modernize lab dashboard
 - 2026-03-11T21:55:32: [FORGE-LOG] chore: experiment with modular lab components
 - 2026-03-11T20:43:40: [FORGE-LOG] chore: experiment with modular lab components
+- 2026-03-11T17:54:07: [FORGE-LOG] test: unit testing for forge kernels

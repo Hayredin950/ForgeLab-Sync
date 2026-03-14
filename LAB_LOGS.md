@@ -987,3 +987,4 @@
 - 2026-03-14T17:09:40: [FORGE-LOG] chore: experiment with modular lab components
 - 2026-03-14T11:37:41: [FORGE-LOG] chore: experiment with modular lab components
 - 2026-03-14T16:11:07: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2026-03-14T20:27:53: [FORGE-LOG] feat: add core forge processing logic

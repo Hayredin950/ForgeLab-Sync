@@ -998,3 +998,4 @@
 - 2026-03-16T21:46:49: [FORGE-LOG] feat: add core forge processing logic
 - 2026-03-16T21:08:57: [FORGE-LOG] style: modernize lab dashboard
 - 2026-03-17T20:40:31: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2026-03-17T17:44:21: [FORGE-LOG] docs: document forge architecture

@@ -1004,3 +1004,4 @@
 - 2026-03-17T12:07:43: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2026-03-17T11:07:51: [FORGE-LOG] test: unit testing for forge kernels
 - 2026-03-18T22:41:28: [FORGE-LOG] test: unit testing for forge kernels
+- 2026-03-18T14:54:14: [FORGE-LOG] fix: solve memory leakage in lab tests

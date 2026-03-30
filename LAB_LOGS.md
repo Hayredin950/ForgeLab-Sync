@@ -1042,3 +1042,4 @@
 - 2026-03-26T18:52:47: [FORGE-LOG] feat: add core forge processing logic
 - 2026-03-26T13:04:46: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2026-03-26T18:38:14: [FORGE-LOG] test: unit testing for forge kernels
+- 2026-03-30T21:28:46: [FORGE-LOG] docs: document forge architecture

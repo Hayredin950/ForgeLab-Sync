@@ -1045,3 +1045,4 @@
 - 2026-03-30T21:28:46: [FORGE-LOG] docs: document forge architecture
 - 2026-03-30T19:57:58: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2026-03-30T20:27:55: [FORGE-LOG] test: unit testing for forge kernels
+- 2026-04-01T13:02:25: [FORGE-LOG] fix: solve memory leakage in lab tests

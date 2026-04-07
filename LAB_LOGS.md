@@ -1062,3 +1062,4 @@
 - 2026-04-06T20:09:19: [FORGE-LOG] test: unit testing for forge kernels
 - 2026-04-07T09:27:04: [FORGE-LOG] feat: add core forge processing logic
 - 2026-04-07T16:22:24: [FORGE-LOG] docs: document forge architecture
+- 2026-04-07T15:10:07: [FORGE-LOG] docs: document forge architecture

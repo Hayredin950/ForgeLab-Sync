@@ -1061,3 +1061,4 @@
 - 2026-04-06T12:17:56: [FORGE-LOG] chore: experiment with modular lab components
 - 2026-04-06T20:09:19: [FORGE-LOG] test: unit testing for forge kernels
 - 2026-04-07T09:27:04: [FORGE-LOG] feat: add core forge processing logic
+- 2026-04-07T16:22:24: [FORGE-LOG] docs: document forge architecture

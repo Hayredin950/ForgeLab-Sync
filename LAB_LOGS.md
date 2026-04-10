@@ -1064,3 +1064,4 @@
 - 2026-04-07T16:22:24: [FORGE-LOG] docs: document forge architecture
 - 2026-04-07T15:10:07: [FORGE-LOG] docs: document forge architecture
 - 2026-04-10T13:53:29: [FORGE-LOG] chore: update lab dependencies
+- 2026-04-10T20:07:49: [FORGE-LOG] test: unit testing for forge kernels

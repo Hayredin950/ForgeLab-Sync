@@ -1119,3 +1119,4 @@
 - 2026-05-03T14:00:15: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2026-05-03T19:12:53: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2026-05-03T10:46:29: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2026-05-03T21:17:17: [FORGE-LOG] docs: document forge architecture

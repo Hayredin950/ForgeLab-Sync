@@ -1122,3 +1122,4 @@
 - 2026-05-03T21:17:17: [FORGE-LOG] docs: document forge architecture
 - 2026-05-04T13:39:07: [FORGE-LOG] test: unit testing for forge kernels
 - 2026-05-04T13:30:09: [FORGE-LOG] feat: integrate real-time lab metrics
+- 2026-05-04T09:06:42: [FORGE-LOG] refactor: clean up experimental codebase

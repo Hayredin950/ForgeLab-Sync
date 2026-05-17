@@ -1152,3 +1152,4 @@
 - 2026-05-15T08:46:32: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2026-05-15T20:23:24: [FORGE-LOG] chore: experiment with modular lab components
 - 2026-05-17T12:03:02: [FORGE-LOG] refactor: clean up experimental codebase
+- 2026-05-17T21:20:46: [FORGE-LOG] test: unit testing for forge kernels

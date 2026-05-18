@@ -1157,3 +1157,4 @@
 - 2026-05-17T18:32:22: [FORGE-LOG] docs: document forge architecture
 - 2026-05-17T19:50:44: [FORGE-LOG] refactor: clean up experimental codebase
 - 2026-05-17T08:16:54: [FORGE-LOG] refactor: clean up experimental codebase
+- 2026-05-18T10:48:33: [FORGE-LOG] feat: add core forge processing logic

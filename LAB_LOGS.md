@@ -1179,3 +1179,4 @@
 - 2026-05-22T09:41:44: [FORGE-LOG] test: unit testing for forge kernels
 - 2026-05-22T09:09:24: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2026-05-23T13:40:14: [FORGE-LOG] style: modernize lab dashboard
+- 2026-05-23T16:51:56: [FORGE-LOG] docs: document forge architecture

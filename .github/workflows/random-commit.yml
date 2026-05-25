@@ -17,8 +17,9 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "random-bot"
-          git config user.email "bot@random.com"
+          git config user.name "HayreBuilds"
+          git config user.email "HayreBuilds@gmail.com"
+          
 
       - name: Commit loop (max speed)
         run: |

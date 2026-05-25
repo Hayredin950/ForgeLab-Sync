@@ -1,0 +1,38 @@
+name: Random Number Commit
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # every 1 minute
+  workflow_dispatch:        # manual trigger for testing
+
+jobs:
+  commit-random:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate random number & update README
+        run: |
+          NUMBER=$(shuf -i 1000000000-9999999999 -n 1)
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          cat > README.md << EOF
+          # Random Number Bot 🤖
+
+          **Latest Random Number:** \`$NUMBER\`
+
+          **Last Updated:** $TIMESTAMP
+
+          *Auto-committed every minute by GitHub Actions*
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "random-bot"
+          git config user.email "bot@random.com"
+          git add README.md
+          git commit -m "🎲 Random: $(grep 'Latest' README.md | grep -o '[0-9]*')"
+          git push

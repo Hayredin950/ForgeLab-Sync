@@ -1186,3 +1186,4 @@
 - 2026-05-25T18:44:29: [FORGE-LOG] fix: solve memory leakage in lab tests
 - 2026-05-27T21:13:45: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2026-05-27T10:43:17: [FORGE-LOG] feat: integrate real-time lab metrics
+- 2026-05-28T15:43:25: [FORGE-LOG] refactor: clean up experimental codebase

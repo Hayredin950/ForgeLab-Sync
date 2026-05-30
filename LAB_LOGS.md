@@ -1190,3 +1190,4 @@
 - 2026-05-28T15:59:04: [FORGE-LOG] feat: integrate real-time lab metrics
 - 2026-05-29T18:20:27: [FORGE-LOG] perf: optimize forge heat-sync logic
 - 2026-05-29T13:02:25: [FORGE-LOG] fix: solve memory leakage in lab tests
+- 2026-05-30T15:52:42: [FORGE-LOG] test: unit testing for forge kernels

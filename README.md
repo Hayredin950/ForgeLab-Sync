@@ -1,7 +1,25 @@
-# Random Number Bot 🤖
+# ForgeLab
 
-**Latest Random Number:** `6897115148`
+[![GitHub license](https://img.shields.io/github/license/HayreBuilds/ForgeLab)](https://github.com/HayreBuilds/ForgeLab/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/HayreBuilds/ForgeLab)](https://github.com/HayreBuilds/ForgeLab/stargazers)
 
-**Last Updated:** 2026-06-02 22:13:02 UTC
+🎲 A collection of experimental algorithms, utility scripts, and creative coding prototypes.
 
-*Auto-committed at max speed via GitHub Actions*
+## ✨ Key Features
+- 🚀 High-performance architecture
+- 🎨 Modern and intuitive interface
+- 🛠 Scalable and maintainable codebase
+- 🔒 Secure and robust implementation
+
+## 🚀 Getting Started
+1. Clone the repository: `git clone https://github.com/HayreBuilds/ForgeLab.git`
+2. Explore the source code and documentation.
+3. Deploy or run locally as needed.
+
+## 🛠 Tech Stack
+- Software Engineering Best Practices
+- Modern Development Workflow
+- Premium Code Standards
+
+---
+Produced by [HayreBuilds](https://github.com/HayreBuilds)
